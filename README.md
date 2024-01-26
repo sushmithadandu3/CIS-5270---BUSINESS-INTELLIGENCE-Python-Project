@@ -63,5 +63,6 @@ These statistics aid in understanding profitability, sales distribution, and exp
  Informs strategies for inventory management and marketing campaigns.
  
 **Results**
+
  The project amalgamates data analysis and visualization to derive actionable insights for coffee chains.
  From understanding sales trends to analyzing profitability and expense distribution, these insights empower businesses to optimize operations, meet customer demands, and drive growth in the competitive coffee industry.
